@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns    = "http://www.w3.org/ns/widgets"
+    xmlns:gap    = "http://phonegap.com/ns/1.0"
+    id           = "com.itvarsity.pinecityzooapp"
+    versionCode  = "10"
+    version      = "1.0.0">
+
+    <name>Pine City Zoo App</name>
+
+    <description>
+        Navigate the pine city zoo.
+    </description>
+
+    <author href="https://itvarsity.co.za" email="aschendorfdean@gmail.com">
+        IT Varsity
+    </author>
+
+</widget>
